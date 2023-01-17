@@ -28,7 +28,7 @@ url: "le-off.de" # the base hostname & protocol for your site, e.g. http://examp
 github_username:  le-off
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
