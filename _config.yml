@@ -28,7 +28,7 @@ url: "le-off.de" # the base hostname & protocol for your site, e.g. http://examp
 github_username:  le-off
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll-theme-hacker
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
