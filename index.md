@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 # Lebenslauf Leon Henninger
 
 ## Persönliche Daten
