@@ -16,8 +16,8 @@
 
 ## Kenntnisse und Interessen
 
-* Sprachkenntnisse: Deutsch, Sehr gute Kenntnisse in Wort und schrift.
-                    Englisch, Gute Kenntnisse in Wort und schrift
+* Sprachkenntnisse: |Deutsch, Sehr gute Kenntnisse in Wort und schrift|
+                    |Englisch, Gute Kenntnisse in Wort und schrift|
                     
 * EDV-Kenntnisse:   Word, Powerpoint, HTML, (tailwind)Css
 
