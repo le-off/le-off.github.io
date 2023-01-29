@@ -1,4 +1,3 @@
-{% include style.scss %}
 # Lebenslauf Leon Henninger
 
 ## Persönliche Daten
