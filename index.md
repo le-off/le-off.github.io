@@ -18,7 +18,7 @@
 
 * Sprachkenntnisse: Deutsch, Sehr gute Kenntnisse in Wort und schrift
                     Englisch, Gute Kenntnisse in Wort und schrift
-
+                    
 * EDV-Kenntnisse:   Word, Powerpoint, HTML, (tailwind)Css
 
 * Hobbys:           Klavier, Schlagzeug, Videospiele
