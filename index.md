@@ -5,10 +5,6 @@ table {
 table, th, td {
    border: 1px white;
 }
-blockquote {
-    border-left: solid white;
-    padding-left: 10px;
-}
 </style>
 
 # Lebenslauf Leon Henninger
