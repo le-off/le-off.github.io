@@ -1,10 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-    background-color: white;
-}
-</style>
-
 # Lebenslauf Leon Henninger
 
 ## Persönliche Daten
