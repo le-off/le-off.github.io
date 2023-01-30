@@ -1,7 +1,3 @@
-<style>
-  background: linear-gradient(to right, #333399, #ff00cc);
-</style>
-
 # Lebenslauf Leon Henninger
 
 ## Persönliche Daten
