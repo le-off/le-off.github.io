@@ -7,12 +7,13 @@
 * E-Mail-Adresse:   le-off-dev@proton.me
 * Telefonnummer:    15175052757
 * Geburtsdatum:     1.1.2008
-* Geburtsort: ?
+* Geburtsort:       Heidelberg
 
 ## Schulbildung
 
-* seit 2020         Otto Graf Realschule, Leimen, 
+* seit 2020         Otto Graf Realschule, Leimen
 * 9/2018            Kurfürst-Friedrich-Gymnasium, Heidelberg
+* 9/2014            Geschwister Scholl Schule, Leimen
 
 ## Kenntnisse und Interessen
 
