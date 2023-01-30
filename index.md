@@ -3,10 +3,10 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-   border: 1px solid black;
+   border: 1px white;
 }
 blockquote {
-    border-left: solid blue;
+    border-left: solid white;
     padding-left: 10px;
 }
 </style>
