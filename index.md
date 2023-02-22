@@ -22,4 +22,4 @@
                     
 * EDV-Kenntnisse:   Word, Powerpoint, HTML, (tailwind)Css
 
-* Hobbys:        |  Meine Hobbys sind Videospiele, vorallem Team/Coop Spiele. Auserdem spiele ich Klavier und Schlagzeug. Ich lerne gerne neue dinge kennen wie zum bsp.                     neue Programme und Benutzeroberflächen.  |
+* Hobbys:        |  Meine Hobbys sind Videospiele, vor allem Team/Coop Spiele. Außerdem spiele ich Klavier und Schlagzeug. Ich lerne gerne neue Dinge kennen wie zum bsp.                     neue Programme und Benutzeroberflächen.  |
