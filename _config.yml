@@ -23,7 +23,7 @@ email: le-off-dev@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
  Das ist eine sehr coole Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "le-off.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://le-off.de" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  le-off
 
